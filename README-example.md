@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://notesync.kauarodrigues.com">
-    <img src="https://raw.githubusercontent.com/rodrigueskaua/Assets-For-Readmes/master/NoteSync/favicon.svg" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/rodrigueskaua/Assets-For-Readmes/master/NoteSync/favicon.svg" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">NoteSync</h3>
 
   <p align="center">
     Aplicação web para criação e organização de anotações
-    <br />
+    <br> <br> 
     <a href="https://notesync.kauarodrigues.com">Ver Deploy</a>
   </p>
 </div>
@@ -20,6 +20,9 @@
 <p><strong>NoteSync</strong> é uma aplicação web para anotações simples, desenvolvida com o objetivo de permitir que o usuário escreva notas rápidas de forma prática e organizada. Apesar da proposta minimalista, oferece recursos de formatação de texto, como <strong>negrito</strong>, <em>itálico</em>, listas, links e alinhamento, proporcionando uma experiência de escrita mais completa.</p>
 
 <p>Com uma interface intuitiva, suporte a login via Google, sistema de busca eficiente e controle de acesso individual às anotações, a aplicação alia praticidade e segurança. É uma solução leve e funcional para quem precisa registrar ideias, tarefas ou pensamentos no dia a dia.</p>
+
+## Demo
+Você pode conferir o projeto NoteSync <a  href="https://notesync.kauarodrigues.com">clicando aqui</a>.
 
 ## Stack
 
